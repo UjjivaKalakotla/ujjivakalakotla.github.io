@@ -1,6 +1,6 @@
 # Ujjiva Kalakotla — AgTech & 3D Interactive Portfolio
 
-> A modern, hyper-interactive web portfolio and resume application for **Ujjiva Kalakotla** (Agricultural Engineering Student, AgTech & Heavy Machinery Specialist, 3D Animator & Web Designer), inspired by the design aesthetic and interactive 3D deck features of [Kattacharanraj.github.io](https://kattacharanraj.github.io/).
+> A modern, hyper-interactive web portfolio and resume application for **Ujjiva Kalakotla** (Agricultural Engineering Student, AgTech & Heavy Machinery Specialist, 3D Animator & Web Designer), inspired by the design aesthetic and interactive 3D deck features 
 
 ---
 
